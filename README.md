@@ -13,7 +13,7 @@ Unlike traditional designers, I peek under the hood—using **JavaScript** and *
 
 | **Instructional Design** | **Development** | **Creative & Media** |
 | :--- | :--- | :--- |
-| ![Storyline](https://img.shields.io/badge/Articulate-Storyline_360-red) | ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) | ![Adobe Ps](https://img.shields.io/badge/Adobe-Photoshop-blue) |
+| ![Articulate 360]() | ![JavaScript]() | ![Adobe Creative Cloud]() |
 | ![Rise](https://img.shields.io/badge/Articulate-Rise_360-orange) | ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange) | ![Camtasia](https://img.shields.io/badge/TechSmith-Camtasia-green) |
 | ![Pendo](https://img.shields.io/badge/Pendo-Analytics-pink) | ![GitHub](https://img.shields.io/badge/GitHub-Pages-lightgrey) | ![Gamification](https://img.shields.io/badge/Skill-Gamification-purple) |
 
