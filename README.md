@@ -37,9 +37,3 @@ I specialize in **Technical Instructional Design** combining advanced Storyline 
 | ✅ **Rapid Prototyping** | 🔗 **SCORM 1.2 / 2004** |
 | ✅ **Gamification Mechanics** | 📊 **xAPI (TinCan)** Management |
 | ✅ **SOP & Job Aid Creation** | 📈 **Watershed** Analytics |
-
----
-
-## 🚀 Potfolio and CV
-* **Portfolio:** [Link to your GitHub Page]
-* **Curriculum Vitae:** [Link to your GitHub Page]
