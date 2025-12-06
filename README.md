@@ -40,6 +40,6 @@ I specialize in **Technical Instructional Design** combining advanced Storyline 
 
 ---
 
-## 🚀 Projects & Interests
+## 🚀 Potfolio and CV
 * **Portfolio:** [Link to your GitHub Page]
 * **Curriculum Vitae:** [Link to your GitHub Page]
