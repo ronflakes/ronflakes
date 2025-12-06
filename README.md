@@ -14,7 +14,7 @@ I specialize in **Technical Instructional Design**—combining advanced Storylin
 ![Storyline 360](https://img.shields.io/badge/Articulate_Storyline_360-Advanced-red?style=for-the-badge&logo=articulate)
 ![Rise 360](https://img.shields.io/badge/Articulate_Rise_360-Expert-orange?style=for-the-badge)
 ![Vyond](https://img.shields.io/badge/Vyond-Animation-7A3E99?style=for-the-badge)
-![Camtasia](https://img.shields.io/badge/TechSmith-Camtasia-009900?style=for-the-badge)
+![Camtasia](https://img.shields.io/badge/Camtasia-Simulation-009900?style=for-the-badge)
 
 ### 🎨 Multimedia Production
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-Editing-999999?style=for-the-badge&logo=adobe-premiere-pro&logoColor=violet)
