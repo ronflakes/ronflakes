@@ -42,12 +42,10 @@ I specialize in **Technical Instructional Design** combining advanced Storyline 
 
 ## 🚀 Projects & Interests
 * **Portfolio:** [Link to your GitHub Page]
-* **Personal Project:** Designing *"Missile Mayhem"* (GERA) - A Warfare Board Game 🎲
-* **Rig:** PC Gamer on **RTX 3090** | **Avowed** Enthusiast 🎮
-* **Life:** Pug & French Bulldog Dad 🐶
+* **Curriculum Vitae:** [Link to your GitHub Page]
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical&hide=issues,contribs" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronflakes&show_icons=true&theme=radical&hide=issues,contribs" alt="Ronflakes GitHub Stats" />
 </div>
