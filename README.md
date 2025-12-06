@@ -7,7 +7,7 @@ I specialize in **Technical Instructional Design** combining advanced Storyline 
 
 ---
 
-## ⚡ THE TECH STACK
+## ⚡ The Tech Stack
 
 ### 🛠️ eLearning & Development
 ![Storyline 360](https://img.shields.io/badge/Articulate_Storyline_360-Advanced-red?style=for-the-badge&logo=articulate)
