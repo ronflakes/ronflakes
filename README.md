@@ -1,7 +1,7 @@
-# Hi there, I'm [YOUR NAME]! 👋
+# Hi there, I'm Ron! 👋
 ### 🚀 Instructional Designer & Tech Enthusiast
 
-I bridge the gap between **Pedagogy** and **Technology**. I don't just design slides; I build interactive learning experiences using code and creative tools.
+I bridge the gap between **Pedagogy** and **Technology**. I don't just design slides; I build interactive learning experiences using eLearning creative tools.
 
 - 🔭 I’m currently working on: **Interactive Storyline Modules hosted on GitHub**
 - 🎲 Hobby Project: Designing a warfare board game called **"Missile Mayhem" (GERA)**
