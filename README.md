@@ -13,15 +13,13 @@ I specialize in **Technical Instructional Design**—combining advanced Storylin
 ### 🛠️ eLearning & Development
 ![Storyline 360](https://img.shields.io/badge/Articulate_Storyline_360-Advanced-red?style=for-the-badge&logo=articulate)
 ![Rise 360](https://img.shields.io/badge/Articulate_Rise_360-Expert-orange?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Vyond](https://img.shields.io/badge/Vyond-Animation-7A3E99?style=for-the-badge)
 ![Camtasia](https://img.shields.io/badge/TechSmith-Camtasia-009900?style=for-the-badge)
 
 ### 🎨 Multimedia Production
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-Editing-999999?style=for-the-badge&logo=adobe-premiere-pro&logoColor=violet)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-Design-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
-![Sony Vegas](https://img.shields.io/badge/Sony_Vegas_Pro-Video-0078D7?style=for-the-badge)
+![Sony Vegas](https://img.shields.io/badge/Canva-Multimedia-0078D7?style=for-the-badge)
 ![Audacity](https://img.shields.io/badge/Audacity-Audio_Eng-F0C600?style=for-the-badge&logo=audacity&logoColor=black)
 
 ### 🤖 Generative AI & Automation
