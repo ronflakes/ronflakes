@@ -37,15 +37,12 @@ I specialize in **Technical Instructional Design**—combining advanced Storylin
 | ✅ **ADDIE & SAM** Models | 🏢 **Workday Learning** |
 | ✅ **Rapid Prototyping** | 🔗 **SCORM 1.2 / 2004** |
 | ✅ **Gamification Mechanics** | 📊 **xAPI (TinCan)** Management |
-| ✅ **SOP & Job Aid Creation** | 📈 **Pendo** Analytics |
+| ✅ **SOP & Job Aid Creation** | 📈 **Watershed** Analytics |
 
 ---
 
 ## 🚀 Projects & Interests
 * **Portfolio:** [Link to your GitHub Page]
-* **Personal Project:** Designing *"Missile Mayhem"* (GERA) - A Warfare Board Game 🎲
-* **Rig:** PC Gamer on **RTX 3090** | **Avowed** Enthusiast 🎮
-* **Life:** Pug & French Bulldog Dad 🐶
 
 ---
 
