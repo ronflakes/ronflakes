@@ -43,6 +43,9 @@ I specialize in **Technical Instructional Design**—combining advanced Storylin
 
 ## 🚀 Projects & Interests
 * **Portfolio:** [Link to your GitHub Page]
+* **Personal Project:** Designing *"Missile Mayhem"* (GERA) - A Warfare Board Game 🎲
+* **Rig:** PC Gamer on **RTX 3090** | **Avowed** Enthusiast 🎮
+* **Life:** Pug & French Bulldog Dad 🐶
 
 ---
 
