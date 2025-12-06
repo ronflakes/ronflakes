@@ -1,9 +1,9 @@
 # Hi, I'm Ron! 👋
 ### Sr Instructional Designer | eLearning Specialist | Multimedia Expert
 
-> **Innovative Instructional Designer with over 15 years of experience in eLearning development, gamification, and multimedia production. Expert in translating complex technical concepts into engaging, accessible learning solutions using Articulate 360 (Storyline/Rise), Adobe Creative Cloud, and generative AI tools. Proven track record in managing end-to-end training lifecycles for global organizations including Verizon and Aurecon.
+> Innovative Instructional Designer with over 15 years of experience in eLearning development, gamification, and multimedia production. Expert in translating complex technical concepts into engaging, accessible learning solutions using Articulate 360 (Storyline/Rise), Adobe Creative Cloud, and generative AI tools. Proven track record in managing end-to-end training lifecycles for global organizations including Verizon and Aurecon.
 
-I specialize in **Technical Instructional Design**—combining advanced Storyline development with JavaScript, Generative AI, and Multimedia production.
+I specialize in **Technical Instructional Design** combining advanced Storyline development with JavaScript, Generative AI, and Multimedia production.
 
 ---
 
