@@ -1,59 +1,62 @@
 # Hi there, I'm Ron! 👋
-### 🚀 Instructional Designer & Tech Enthusiast
+### 🎨 Innovative Instructional Designer | 💻 eLearning Developer
 
-I bridge the gap between **Pedagogy** and **Technology**. I don't just design slides; I build interactive learning experiences using eLearning creative tools.
+> *"Bridging the gap between Pedagogy and Technology."*
 
-- 🔭 I’m currently working on: **Interactive Storyline Modules hosted on GitHub**
-- 🎲 Hobby Project: Designing a warfare board game called **"Missile Mayhem" (GERA)**
-- 🎮 Gaming: Playing **Avowed** on Xbox Game Pass (powered by my RTX 3090)
-- 🐶 Sidekick: A Pug parent & dog lover
+I am a **Senior Instructional Designer** with over **15 years of experience** in eLearning development, gamification, and multimedia production. I specialize in transforming complex technical manuals into engaging, interactive learning experiences.
+
+Unlike traditional designers, I peek under the hood—using **JavaScript** and **Code** to push tools like Articulate Storyline beyond their limits.
 
 ---
 
-### 🛠️ Tech & Tools Stack
-*Visualizing my toolkit:*
+### 🛠️ The Toolkit (Design + Tech)
 
-| **eLearning & Design** | **Development & Code** | **Productivity** |
+| **Instructional Design** | **Development** | **Creative & Media** |
 | :--- | :--- | :--- |
-| ![Storyline](https://img.shields.io/badge/Articulate-Storyline_360-red) | ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) | ![Notion](https://img.shields.io/badge/Notion-Workspace-black) |
-| ![Adobe](https://img.shields.io/badge/Adobe-Creative_Cloud-blue) | ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange) | ![Pendo](https://img.shields.io/badge/Pendo-Analytics-pink) |
-| ![Camtasia](https://img.shields.io/badge/TechSmith-Camtasia-green) | ![GitHub](https://img.shields.io/badge/GitHub-Pages-lightgrey) | ![VS Code](https://img.shields.io/badge/VS_Code-Editor-blue) |
+| ![Storyline](https://img.shields.io/badge/Articulate-Storyline_360-red) | ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) | ![Adobe Ps](https://img.shields.io/badge/Adobe-Photoshop-blue) |
+| ![Rise](https://img.shields.io/badge/Articulate-Rise_360-orange) | ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange) | ![Camtasia](https://img.shields.io/badge/TechSmith-Camtasia-green) |
+| ![Pendo](https://img.shields.io/badge/Pendo-Analytics-pink) | ![GitHub](https://img.shields.io/badge/GitHub-Pages-lightgrey) | ![Gamification](https://img.shields.io/badge/Skill-Gamification-purple) |
 
 ---
 
-### 📂 Featured Projects
+### 💼 What I Do Best
+* **Interactive eLearning:** Building custom interactions (toggle transcripts, scoreboards) using JS triggers.
+* **Gamification:** Applying game mechanics to corporate training to boost engagement.
+* **LMS Integration:** Ensuring seamless SCORM/xAPI compliance for global clients.
+* **Multimedia Production:** Utilizing my Mass Comm background for video editing and scriptwriting.
 
-#### 1. [My Interactive Portfolio](https://[YOUR-USERNAME].github.io/[REPO-NAME]) 🌟
-*A fully responsive portfolio built with Vue.js/React, hosted on GitHub Pages.*
-- **Tech used:** HTML, CSS, JavaScript, GitHub Actions
-- **Status:** Live & Password Protected
+---
 
-#### 2. Advanced Storyline Interactions
-*Showcasing custom JavaScript triggers inside Articulate Storyline.*
-- **Features:** Toggle Transcripts, Custom Scoreboards, API Integration
+### 🎓 Education
+**Bachelor in Mass Communication**
+*Polytechnic University of the Philippines (PUP)*
+* *Dean's Lister*
+* *Focus: Broadcasting & Media Production*
+
+---
+
+### 🚀 Featured Projects on GitHub
+
+#### 1. [Interactive Portfolio](https://[YOUR-USERNAME].github.io/[REPO-NAME])
+*My professional portfolio built with React.js, showcasing my transition from traditional ID to Tech-enabled Designer.*
+
+#### 2. Advanced Storyline Demos
+* **Project A:** Custom JavaScript Timer for Quizzes.
+* **Project B:** API Integration inside a Slide.
+
+---
+
+### ⚡ Fun Facts (The Geek Side)
+* 🎲 Currently designing a warfare board game called **"Missile Mayhem" (GERA)**.
+* 🎮 PC Gamer playing **Avowed** on an **RTX 3090** rig.
+* 🐶 Proud parent to Pugs and Frenchies.
 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical&hide=issues,contribs)
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/[YOUR-LINKEDIN])
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-green?style=for-the-badge)](https://[YOUR-USERNAME].github.io/[REPO-NAME])
-
-<!--
-**ronflakes/ronflakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
